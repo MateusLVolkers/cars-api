@@ -5,7 +5,7 @@
     "bateria": "300 kWh",
     "potencia": "200cv",
     "recarga": "30 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "urlPhoto": "https://raw.githubusercontent.com/MateusLVolkers/cars-api/main/img/eletric_car.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "bateria": "230 kWh",
     "potencia": "100cv",
     "recarga": "20 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car2.png"
+    "urlPhoto": "https://raw.githubusercontent.com/MateusLVolkers/cars-api/main/img/electric_car2.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "bateria": "430 kWh",
     "potencia": "400cv",
     "recarga": "60 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car3.png"
+    "urlPhoto": "https://raw.githubusercontent.com/MateusLVolkers/cars-api/main/img/electric_car3.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "bateria": "130 kWh",
     "potencia": "200cv",
     "recarga": "50 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car4.png"
+    "urlPhoto": "https://raw.githubusercontent.com/MateusLVolkers/cars-api/main/img/electric_car4.png"
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "bateria": "235 kWh",
     "potencia": "160cv",
     "recarga": "70 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car5.png"
+    "urlPhoto": "https://raw.githubusercontent.com/MateusLVolkers/cars-api/main/img/electric_car5.png"
   }
 ]
